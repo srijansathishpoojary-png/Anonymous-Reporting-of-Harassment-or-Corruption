@@ -1,32 +1,57 @@
-# Anonymous Reporting of Harassment or Corruption
-
-
 # Anonymous Reporting
 
-This channel allows you to **anonymously report harassment, corruption, misconduct, or other serious concerns**.
+A secure and confidential platform for reporting **harassment, misconduct, corruption, fraud, or other unethical behavior** without requiring you to reveal your identity.
 
-## What You Can Report
+## Purpose
 
-* Harassment, bullying, or discrimination
-* Corruption, bribery, or fraud
-* Abuse of authority
+This platform provides a safe channel for individuals to report concerns that may otherwise go unreported because of fear of retaliation, embarrassment, or lack of access to trusted reporting channels.
+
+Reports can help organizations identify and address:
+
+* Harassment or bullying
+* Discrimination or abuse
+* Corruption or bribery
+* Fraud or financial misconduct
 * Conflicts of interest
-* Other unethical or inappropriate conduct
+* Abuse of authority
+* Workplace or organizational misconduct
+* Other violations of policies, laws, or ethical standards
 
-## How to Report
+## Anonymous Reporting
 
-Provide as much useful information as possible, including:
+You may submit a report without providing your name, email address, phone number, or other identifying information.
 
-* What happened
-* When and where it happened
-* Who was involved
-* Any supporting evidence or documents
+To help protect your anonymity:
 
-**Do not include your name or other identifying information if you wish to remain anonymous.**
+* Avoid including your name or personal details unless necessary.
+* Do not include identifying information in uploaded files.
+* Describe events objectively and provide relevant facts.
+* Consider using a private device or network if you are concerned about being identified through network or device records.
 
-## Confidentiality
+> **Important:** No online system can guarantee absolute anonymity in every circumstance. Review the platform's privacy and security practices before submitting sensitive information.
 
-Reports will be handled confidentially and reviewed by the appropriate team. Retaliation against anyone who raises a concern in good faith is not permitted.
+## What to Include in a Report
 
-> **If there is an immediate threat to someone's safety, contact the appropriate emergency services or authorities.**
+A useful report should include as much relevant information as you can safely provide:
 
+**What happened?**
+Describe the incident or suspected misconduct.
+
+**When did it happen?**
+Provide dates and approximate times when possible.
+
+**Where did it happen?**
+Include the relevant location, department, project, or platform.
+
+**Who was involved?**
+Identify individuals, teams, or organizations involved when relevant.
+
+**What evidence exists?**
+Provide documents, messages, screenshots, transaction records, or other evidence when it is safe and lawful to do so.
+
+**Are there witnesses?**
+Include names or other identifying information only when appropriate and necessary.
+
+## After Submitting a Report
+
+Your report should
